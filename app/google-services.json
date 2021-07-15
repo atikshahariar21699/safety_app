@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207890276303",
+    "firebase_url": "https://gps-family-9cdf3.firebaseio.com",
+    "project_id": "gps-family-9cdf3",
+    "storage_bucket": "gps-family-9cdf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207890276303:android:e0882d2a5c605987",
+        "android_client_info": {
+          "package_name": "com.example.robiul.familylocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207890276303-1v8oubl2bf5nthgfoh0jotb0mgj7rjq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robiul.familylocator",
+            "certificate_hash": "c3a72e7c8a1701a56d9c5c27903f8b7af6df1fe7"
+          }
+        },
+        {
+          "client_id": "207890276303-n0daqfb4hd1qcvsflts6fc7lk0uhd8s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCe05ukoxuQCGH43zjDP5qIO8cSHXgnCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207890276303-n0daqfb4hd1qcvsflts6fc7lk0uhd8s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

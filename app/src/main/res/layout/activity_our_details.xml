@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#33ebff"
+    tools:context=".My_circle">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+        </FrameLayout>
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha=".4"
+            android:background="@drawable/background_fade">
+
+        </FrameLayout>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+            <TextView
+                android:id="@+id/textid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/ourdetails_id"
+        style="@style/Font_family_regular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="@dimen/margin_top_8"
+        android:layout_marginRight="@dimen/margin_right_16"
+        android:layout_marginBottom="@dimen/margin_top_8"
+        android:background="@drawable/red_style"
+        android:text="Back"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_20" />
+
+</RelativeLayout>

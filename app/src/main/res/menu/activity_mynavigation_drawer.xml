@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drive_mode"
+            android:title="Drive Mode" />
+        <item
+            android:id="@+id/nav_mycircle"
+            android:title="My circle" />
+
+        <item
+            android:id="@+id/show_code"
+            android:title="Show My Code" />
+
+        <item
+            android:id="@+id/devoloper"
+            android:title="Devoloper" />
+        <item
+            android:id="@+id/nav_refresh"
+            android:title="Refresh" />
+        <item
+            android:id="@+id/nav_signout"
+            android:title="Sign out" />
+    </group>
+
+
+
+</menu>
