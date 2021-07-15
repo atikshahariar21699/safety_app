@@ -1,29 +1,4 @@
-# README #
+# Safety_app #
+An android app that is built to help the users and their family members to remain safe while outside. This app will track each and every users location so user's can know where their family member are at any moment . The unique drive mode can help the users to have a disturbance free driving.
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Read the safety.pdf file added in to the project and see the demo video for further understanding the project
